@@ -104,7 +104,6 @@ function Board({ nrows, ncols, chanceLightStartsOn }) {
       <tbody>{boardGame}</tbody>
     </table>
   );
-  // TODO
 }
 
 export default Board;
